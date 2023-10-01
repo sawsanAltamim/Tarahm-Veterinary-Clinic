@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311422132814",
+    "project_id": "tarahm-10e37",
+    "storage_bucket": "tarahm-10e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311422132814:android:66e377d1674eae3919591f",
+        "android_client_info": {
+          "package_name": "com.example.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311422132814-053h6galgkoabsavhokqevbi42i7i9s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6u4kzkv-rs4Rl3NyuFlVqOQBEEgKLv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311422132814-053h6galgkoabsavhokqevbi42i7i9s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
